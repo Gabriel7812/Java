@@ -1,10 +1,10 @@
 ✡️Java
 
 
-⚜️🖥️ Aqui você poderá encontrar quase tudo sobre Java e Orientação a Objetos inclusive alguns projetos realizados em cursos.
+⚜️🖥️ Here you can find almost everything about Java and Object Orientation including some projects carried out in courses.
 
 
-♾️ Tecnogias 
+♾️ Technologies 
 
   <img align="left" alt="Biel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
