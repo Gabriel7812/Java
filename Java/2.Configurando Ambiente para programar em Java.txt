@@ -1,6 +1,6 @@
 1° passo - Instalação do JDK, baixar e descompactar no diretório C:/Java (Obs. é preferivel versões javas com a sigla lts = long time suport ou suport de longo prazo);
 2° passo - Configurar variáveis de ambiente
-*pesquisar variáveis de ambiente na pesquisa;
+*pesquisar variáveis de ambiente na pesquisa do Windows;
 *clicar em variáveis de ambiente que fica na aba avançado;
 *caso não haja criar variável com o nome exato de JAVA_HOME;
 *o diretorio da variável JAVA_HOME sera o local de instalação do seu JDK;
