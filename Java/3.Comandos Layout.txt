@@ -1,0 +1,4 @@
+Mudar layout : Window >> Perspective >> OpenPerspective >> Java
+Zerar Layout : Window >> Perspective >> ResetPerspective
+Mostrar a aba console : Window >> ShowView >> Console
+Criar Projeto : File >> New >> JavaProject

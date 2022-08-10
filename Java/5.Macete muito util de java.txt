@@ -1,0 +1,2 @@
+para auto preencher o comando System.out.println();
+é só digitar sysout e dar um ctrl + espaço que o eclipse preenche para você a expressão completa.
