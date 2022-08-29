@@ -1,4 +1,0 @@
-Tipos de linguagens existentes
-Compiladas (C , C++);
-Interpretadas (Javascript, PHP);
-Hibridas (Java , C#);

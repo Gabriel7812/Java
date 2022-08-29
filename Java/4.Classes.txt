@@ -1,7 +1,0 @@
-Ao criar a classe marcar a opção, 
-	public static void main(String[]args)
-ela vai permitir que nossa classe seja um programa executável.
-
-Como java é uma linguagem orientada a objetos em java cada classe corresponde meio que a um programa executável,
-para rodar um programa você deve criar uma classe, escrever o código fonte do seu programa no caso as intruções de que o programa fará
-e após fazer isso clicar com o botão direito sobre a classe criada no package explorer(lado esquerdo da tela) >> RunAs >> JavaAplication.
