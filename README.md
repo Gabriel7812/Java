@@ -1,8 +1,7 @@
 ✡️Java
 
 
-⚜️🖥️ Here you can find almost everything about Java and Object Orientation including some projects carried out in courses.
-
+⚜️🖥️ Java and Object Orientation and projects carried out in courses.
 
 ♾️ Technologies 
 
